@@ -1,0 +1,36 @@
+C:/Users/12638/Pictures/modelsim/lab1_2_FlowingWaterLight/lab1_2_FlowingWaterLight/src/FlowingWaterLight_tb.v {1 {vlog -work work -vopt -stats=none C:/Users/12638/Pictures/modelsim/lab1_2_FlowingWaterLight/lab1_2_FlowingWaterLight/src/FlowingWaterLight_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module FlowingWateLight_tb
+
+Top level modules:
+	FlowingWateLight_tb
+
+} {} {}} C:/Users/12638/Pictures/modelsim/lab1_2_FlowingWaterLight/lab1_2_FlowingWaterLight/src/counter_up_down.v {1 {vlog -work work -vopt -stats=none C:/Users/12638/Pictures/modelsim/lab1_2_FlowingWaterLight/lab1_2_FlowingWaterLight/src/counter_up_down.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module counter_up_dn
+
+Top level modules:
+	counter_up_dn
+
+} {} {}} C:/Users/12638/Pictures/modelsim/lab1_2_FlowingWaterLight/lab1_2_FlowingWaterLight/src/decode.v {1 {vlog -work work -vopt -stats=none C:/Users/12638/Pictures/modelsim/lab1_2_FlowingWaterLight/lab1_2_FlowingWaterLight/src/decode.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module decode
+
+Top level modules:
+	decode
+
+} {} {}} C:/Users/12638/Pictures/modelsim/lab1_2_FlowingWaterLight/lab1_2_FlowingWaterLight/src/FlowingWaterLight.v {1 {vlog -work work -vopt -stats=none C:/Users/12638/Pictures/modelsim/lab1_2_FlowingWaterLight/lab1_2_FlowingWaterLight/src/FlowingWaterLight.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module FlowingWaterLight
+
+Top level modules:
+	FlowingWaterLight
+
+} {} {}} C:/Users/12638/Pictures/modelsim/lab1_2_FlowingWaterLight/lab1_2_FlowingWaterLight/src/counter_n.v {1 {vlog -work work -vopt -stats=none C:/Users/12638/Pictures/modelsim/lab1_2_FlowingWaterLight/lab1_2_FlowingWaterLight/src/counter_n.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module counter_n
+
+Top level modules:
+	counter_n
+
+} {} {}}
